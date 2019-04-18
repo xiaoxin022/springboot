@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/order-core/order-core.iml" filepath="$PROJECT_DIR$/order-core/order-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-web/order-web.iml" filepath="$PROJECT_DIR$/order-web/order-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-util/orderutil.iml" filepath="$PROJECT_DIR$/order-util/orderutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBoot.iml" filepath="$PROJECT_DIR$/springBoot.iml" />
+    </modules>
+  </component>
+</project>

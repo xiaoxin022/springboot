@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-util/src/main/java/com/icss/order/util/AddressUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/order-util/src/main/java/com/icss/order/util/AmountUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/order-util/src/main/java/com/icss/order/util/ConverterUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/order-util/src/main/java/com/icss/order/util/DESUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/order-util/src/main/java/com/icss/order/util/DateUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/order-util/src/main/java/com/icss/order/util/DownloadPDFUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/order-util/src/main/java/com/icss/order/util/EmaiUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/order-util/src/main/java/com/icss/order/util/IDCardUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/order-util/src/main/java/com/icss/order/util/JsonUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/order-util/src/main/java/com/icss/order/util/ListUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/order-util/src/main/java/com/icss/order/util/MapUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/order-util/src/main/java/com/icss/order/util/NewResponseUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/order-util/src/main/java/com/icss/order/util/NumberFormatUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/order-util/src/main/java/com/icss/order/util/NumberToStringForChineseMoney.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/order-util/src/main/java/com/icss/order/util/OverrideUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/order-util/src/main/java/com/icss/order/util/PdfUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/order-util/src/main/java/com/icss/order/util/PinYinUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/order-util/src/main/java/com/icss/order/util/ProtoStuffSerializerUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/order-util/src/main/java/com/icss/order/util/RedisCacheUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/order-util/src/main/java/com/icss/order/util/SignatureAlgorithm.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/order-util/src/main/java/com/icss/order/util/StreamUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/order-util/src/main/java/com/icss/order/util/UUIDUitl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/order-util/src/main/java/com/icss/order/util/ValidateUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/order-util/src/main/java/com/icss/order/util/ZipUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/order-util/src/main/java/com/icss/order/util/gzip" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/order-web" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
